@@ -15,7 +15,6 @@ public class Lat9StarReplace {
 
         sb.setCharAt(pos, ch);
         str = sb.toString();
-
         System.out.println(str);
 
     }
